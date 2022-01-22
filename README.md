@@ -27,6 +27,6 @@ You can check my completed resume on [LinkedIn](https://www.linkedin.com/in/gust
 ---
 ## :dart: **2022 Projects**
 > 1. [Audio transcription project](https://github.com/kagesg/Audio_Transcription)
-
+> 2. [Pomodoro timer project](https://github.com/kagesg/Pomodoro_timer) **(ON GOING)**
 
               
